@@ -4,4 +4,4 @@ Implementation of world-building techniques for games and animations, with a foc
 
 *Prerequisite: CSG 3013 Intro to Real-Time Engines and CSG/ART 4283 3D Modeling & Animation*
 
-**[See Syllabus](https://sites.utulsa.edu/csg/csg-courses/csg-3813-enviromental-storytelling-level-design/))**
+**[See Syllabus](https://sites.utulsa.edu/csg/csg-courses/csg-3813-enviromental-storytelling-level-design/)**
